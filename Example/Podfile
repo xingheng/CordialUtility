@@ -1,0 +1,5 @@
+platform :ios, '8.0'
+
+target 'CordialUtility_Tests' do
+  pod 'CordialUtility', :path => '../'
+end

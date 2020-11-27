@@ -1,0 +1,50 @@
+PODS:
+  - CordialUtility (1.0.0):
+    - CordialUtility/All (= 1.0.0)
+  - CordialUtility/All (1.0.0):
+    - CordialUtility/Application
+    - CordialUtility/CollectionView
+    - CordialUtility/Core
+    - CordialUtility/CustomView
+    - CordialUtility/Date
+    - CordialUtility/Image
+    - CordialUtility/LayoutConstraint
+    - CordialUtility/Path
+    - CordialUtility/String
+    - CordialUtility/TableView
+    - CordialUtility/View
+    - CordialUtility/ViewController
+  - CordialUtility/Application (1.0.0)
+  - CordialUtility/CollectionView (1.0.0)
+  - CordialUtility/Core (1.0.0)
+  - CordialUtility/CustomView (1.0.0):
+    - CordialUtility/Core
+  - CordialUtility/Date (1.0.0)
+  - CordialUtility/Image (1.0.0)
+  - CordialUtility/LayoutConstraint (1.0.0):
+    - Masonry
+  - CordialUtility/Path (1.0.0)
+  - CordialUtility/String (1.0.0)
+  - CordialUtility/TableView (1.0.0)
+  - CordialUtility/View (1.0.0)
+  - CordialUtility/ViewController (1.0.0)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - CordialUtility (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  CordialUtility:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CordialUtility: 9dab89a8bddb61857473159c268fc547de064b85
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: a280b633974aacc7f040ee4f83fd9c62cab591d8
+
+COCOAPODS: 1.10.0
